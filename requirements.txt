@@ -1,0 +1,5 @@
+PyQt5
+PyQt6
+qfluentwidgets
+pygraph
+pysrt
